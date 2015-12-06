@@ -17,3 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/awu|Ethnologue data]]
 
+
+**Resources**
+
+  * [[awu:obs|Open Bible Stories (awu)]]
